@@ -221,7 +221,7 @@ here is the query result
 </pre>
 
 
-have fun.
+have fun!
 
 热更新IK分词使用方法
 ----------
